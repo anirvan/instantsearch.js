@@ -96,6 +96,7 @@ npm run shrinkwrap
 
 ```sh
 npm install
+npm prune
 npm remove package --save[-dev]
 npm run shrinkwrap
 ```
